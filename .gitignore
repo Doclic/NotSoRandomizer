@@ -2,3 +2,6 @@
 *.bat
 *.exe
 build/*
+
+scripting/compile.cmd
+scripting/spcomp.exe
